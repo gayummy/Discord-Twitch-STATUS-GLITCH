@@ -15,14 +15,14 @@ In the last section saying "bot.login('TOKEN');
 You must need your discord authorization token
 Here is a video showcasing how to obtain it : https://www.youtube.com/watch?v=tI1lzqzLQCs
 
-Once you've filled everything out in the JS.Txt File
+Once you've filled everything out in the JS.Txt File,
 Change it to a .js file by changing the text file to a .js
 
-Make a folder for the JS File you've just created
+Make a folder for the JS File you've just created,
 Open up Node Command Prompt and make sure it's in the correct directory path as your folder
 
 To do that, type cd FOLDERLINK
-to redirect to the folder directory path
+to redirect to the folder directory path,
 Once you have it directed to the correct folder path with the JS file
 Type in npm install discord.js
 
