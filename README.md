@@ -29,7 +29,7 @@ To do that, type cd FOLDERLINK
 to redirect to the folder directory path.
 
 ## STEP 5
-Once you have it directed to the correct folder path with the JS file
+Once you have it directed to the correct folder path with the JS file,
 Type in npm install discord.js
 
 ## FINAL STEP
