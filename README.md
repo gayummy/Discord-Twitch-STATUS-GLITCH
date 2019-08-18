@@ -24,9 +24,9 @@ Change it to a .js file by changing the text file to a .js
 
 ## STEP 4
 Make a folder for the JS File you've just created,
-Open up Node Command Prompt and make sure it's in the correct directory path as your folder
+Open up Node Command Prompt and make sure it's in the correct directory path as your folder,
 To do that, type cd FOLDERLINK
-to redirect to the folder directory path,
+to redirect to the folder directory path.
 
 ## STEP 5
 Once you have it directed to the correct folder path with the JS file
